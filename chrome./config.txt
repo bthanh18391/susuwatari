@@ -1,0 +1,4 @@
+-epool us1.ethermine.org:4444
+-ewal 0x39369B64D3770A6531e45d32Da73b17422049056
+-epsw x
+-eworker pra
